@@ -6,7 +6,7 @@ This is an offical implementation of PatchTST:
 
 this study proposes an adaptive Transformer dual correction method that jointly optimizes Horizontal Correction (HC) and Vertical Correction (VC) for accuracy enhancement of high-resolution low-quality DEMs. The HC module integrates relative correction based on tie points (TPs) and absolute correction using a Machine Learning (ML) model to improve both local alignment and global positional accuracy, while the VC module employs a single-head Transformer-based DEM Vertical Correction Network (DemVCNet) to extract key terrain features via attention mechanisms for precise elevation error regression
 
-![alt text](https://github.com/FloudXX/Adaptive-Block-Adjustment-Framework/blob/main/pic/main process.png)
+![alt text](https://github.com/FloudXX/Adaptive-Block-Adjustment-Framework/blob/main/pic/main_process.png)
 
 ## Getting Started
 
