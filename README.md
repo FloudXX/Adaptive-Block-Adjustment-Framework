@@ -12,7 +12,7 @@ This study proposes an adaptive Transformer dual correction method that jointly 
 
 1. Install requirements. ```pip install -r requirements.txt```
 
-2. Download  data. The image data used in the paper and the intermediate products during the processing are all stored in [Here](https://mega.nz/folder/itRHjKaS#xngyOeJ4PDvZvyur6UN2QA).You can also use your own prepared DEM data to complete the experimental process.
+2. Download  data. The image data used in the paper and the intermediate products during the processing can all be downloaded from [this link](https://mega.nz/folder/itRHjKaS#xngyOeJ4PDvZvyur6UN2QA).You can also use your own prepared DEM data to complete the experimental process.
 
 3. Run each ipynb file in sequence to process the DEM data. Each program corresponds to the processing steps in the paper, including relative horizontal adjustment（S1）, absolute horizontal adjustment（S2） and vertical adjustment（S3）.
 
