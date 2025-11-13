@@ -1,6 +1,6 @@
 # Adaptive-Block-Adjustment-Framework
 
-This is an offical implementation of 《Adaptive Transformer Dual Correction Method for Accuracy Improvement of High-resolution Low-Quality DEMs》.
+This is an offical implementation of 《Adaptive Transformer Dual Correction Method for Low-Accuray DEMs with Higher Spatial Resolution》.
 
 ## Key Designs
 
